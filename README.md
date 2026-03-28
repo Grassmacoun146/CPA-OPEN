@@ -27,24 +27,6 @@
 
 ---
 
-## 🛠️ 快速起步
-
-### 1. 环境准备
-- **Python**: 3.8+ (推荐 3.10+)
-- **安装依赖**:
-  ```bash
-  pip install requests curl_cffi python-dotenv PySocks
-  ```
-
-### 2. 核心启动
-1. **重命名配置**: 将 `.env.example` -> `.env`
-2. **快速运行**: 本机调试或 VPS 挂机一键启动：
-   ```bash
-   python deploy.py
-   ```
-
----
-
 
 ## ⚠️ 开发者提醒
 1. **安全第一**: 严禁硬编码敏感信息。
